@@ -1,0 +1,85 @@
+background: url();
+background: #fff;
+background: white;
+
+border: 5px solid red;
+border: 5px solid #f00;
+border: 5px solid rgba(200, 0, 0, .7);
+border-top: 5px solid red;
+border-right: 5px solid red;
+border-bottom: 5px solid red;
+border-left: 5px solid red;
+border-radius: 5px;
+border-radius: 50%;
+
+---------------------------
+BOX MODEL
+
+float: left | right | none;
+clear: left | right | both | none;
+
+height: auto; // se usa aveces
+max-height:;
+min-height:;
+max-width:;
+min-width:;
+width: 100%;
+width: 150px;
+
+// shorthand
+margin: 10px 34px 10px 34px;
+margin-top: 10px;
+margin-right:  34px;
+margin-bottom: 10px;
+margin-left:  34px;
+
+overflow: hidden;
+overflow: visible;
+overflow: scroll;
+
+
+---------------------------
+FONT
+
+font: bold 30px/30px 'Arial';// (shorthand)
+font-weight: bold;
+font-size: 30px;
+line-height: 30px;
+font-family: 'Arial';
+letter-spacing: 3px;
+---------------------------
+COLORS
+color: blue; // text color
+opacity: .8; // opaca cualquier elemento
+
+---------------------------
+MOUSE
+cursor: ; // mira la lista en google
+
+----------------------------
+PSEUDO-CLASS
+:hover
+:first-child
+:last-child
+
+----------------------------
+ PSEUDO ELEMENTOS (importante!)
+:before
+:after
+
+-----------------------------
+COLORS
+rgb()
+rgba()
+hexadecimal
+
+-----------------------------
+// Dificil de entender (te lo tengo q explicar)
+position: static;
+position: relative;
+position: absolute;
+
+top: ;
+left: ;
+right: ;
+bottom: ;
